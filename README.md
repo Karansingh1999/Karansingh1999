@@ -40,9 +40,6 @@ Docker · AWS · CI/CD · Linux
 📘 Author of a published book( Computing In Green Technology )
 
 🧠 Research interests: Machine Learning, NLP, Behavioral Analysis, AI for Social Good
-
-🎯 Actively working toward top-tier MS / PhD programs in Computer Science
-
 🌱 Currently Exploring
 
 Advanced distributed backend architectures

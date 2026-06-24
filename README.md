@@ -215,7 +215,7 @@ Redis --> Backend
 
 ---
 
-# 🎯 Core Competencies
+#  Core Competencies
 
 <table>
 
@@ -318,8 +318,6 @@ A distributed backend service responsible for asynchronous event processing acro
 
 ---
 
- **Repository:** *Coming Soon*
-
 </td>
 
 <td width="50%" valign="top">
@@ -346,8 +344,6 @@ Authentication and authorization platform providing secure access across distrib
 * Session Security
 
 ---
-
- **Repository:** *Coming Soon*
 
 </td>
 
@@ -380,8 +376,6 @@ Search service supporting indexing, filtering, autocomplete and optimized query 
 
 ---
 
- **Repository:** *Coming Soon*
-
 </td>
 
 <td width="50%" valign="top">
@@ -408,8 +402,6 @@ Experimental workspace focused on integrating AI into modern backend architectur
 * AI Workflows
 
 ---
-
- **Repository:** *Coming Soon*
 
 </td>
 
@@ -542,4 +534,136 @@ ML
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:007CF0"/>
+</p>
+---
+
+#  Design Philosophy
+
+<table>
+
+<tr>
+
+<td width="25%" align="center">
+
+### ⚡
+
+Performance First
+
+Design systems that remain fast under load.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🛡
+
+Reliability
+
+Expect failures and recover gracefully.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈
+
+Scalability
+
+Build today for tomorrow's traffic.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔍
+
+Observability
+
+Measure, monitor and continuously improve.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+#  Knowledge Graph
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+##  Currently Learning
+
+* Advanced System Design
+* Cloud-Native Architecture
+* Kubernetes
+* Large Language Models
+* AI Agents
+* Retrieval-Augmented Generation
+
+</td>
+
+<td width="50%" valign="top">
+
+##  Research Interests
+
+* Distributed AI Systems
+* Backend Performance
+* Event-Driven Architecture
+* Intelligent Search
+* Scalable Infrastructure
+* Applied Machine Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+#  Network
+
+<p align="center">
+
+<a href="mailto:singh.3101karan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Karansingh1999">
+<img src="https://img.shields.io/badge/GitHub-Karansingh1999-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/karankumarsingh">
+<img src="https://img.shields.io/badge/LinkedIn-Karan_Kumar_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Karan_1999/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+
+</p>
+
+---
+
+#  Engineering Mindset
+
+> **Great software isn't measured by the number of features it has, but by how reliably it performs when those features matter most.**
+
+I enjoy designing backend systems that are **simple to understand, resilient to failure, and built to scale**.
+
+Whether it's an event-driven architecture, a distributed service, or an AI-enabled application, I believe good engineering starts with thoughtful design and ends with delivering real value.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:007CF0&height=160&section=footer"/>
+
 </p>

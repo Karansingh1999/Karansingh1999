@@ -32,14 +32,14 @@ Backend Engineer • Distributed Systems • Java • Spring Boot • Kafka • 
 
 ---
 
-# ⚡ Engineering Profile
+#  Engineering Profile
 
 <table>
 <tr>
 
 <td width="50%">
 
-## 👨‍💻 Professional Summary
+##  Professional Summary
 
 Backend Engineer with 4+ years of experience designing scalable backend services and distributed applications.
 
@@ -51,7 +51,7 @@ Currently expanding into AI-powered systems while pursuing advanced knowledge in
 
 <td width="50%">
 
-## 🎯 Core Expertise
+##  Core Expertise
 
 ✔ Backend Engineering
 
@@ -140,7 +140,7 @@ Currently expanding into AI-powered systems while pursuing advanced knowledge in
 
 ---
 
-# 🏗 Architecture Blueprint
+#  Architecture Blueprint
 
 ```mermaid
 flowchart LR
@@ -268,14 +268,14 @@ Redis --> Service
 
 ---
 
-# 🚀 Flagship Engineering Modules
+#  Flagship Engineering Modules
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## ⚡ Distributed Backend Platform
+##  Distributed Backend Platform
 
 > Event-Driven Microservices Architecture
 
@@ -300,7 +300,7 @@ Designed scalable backend services following event-driven architecture principle
 
 <td width="50%" valign="top">
 
-## 🔐 Identity & Access Service
+##  Identity & Access Service
 
 > Secure Authentication & Authorization Platform
 
@@ -329,7 +329,7 @@ Developed a centralized authentication and authorization service implementing ro
 
 <td width="50%" valign="top">
 
-## 🔍 Intelligent Search Platform
+##  Intelligent Search Platform
 
 > High-Performance Search & Retrieval
 
@@ -354,7 +354,7 @@ Engineered a search platform capable of indexing, filtering, autocomplete, and o
 
 <td width="50%" valign="top">
 
-## 🧠 AI Engineering Sandbox
+##  AI Engineering Sandbox
 
 > Exploring Intelligent Software Systems
 
@@ -383,7 +383,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 ---
 
-# 🛰 Engineering Domains
+#  Engineering Domains
 
 <table>
 
@@ -391,7 +391,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td width="33%" valign="top">
 
-## ☕ Backend Systems
+##  Backend Systems
 
 * Java & Spring Boot
 * REST API Development
@@ -404,7 +404,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td width="33%" valign="top">
 
-## ⚡ Distributed Computing
+##  Distributed Computing
 
 * Apache Kafka
 * Event Streaming
@@ -417,7 +417,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td width="33%" valign="top">
 
-## 🚀 Performance Engineering
+##  Performance Engineering
 
 * Redis Caching
 * Session Management
@@ -434,7 +434,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td width="33%" valign="top">
 
-## 🗄 Data Platforms
+##  Data Platforms
 
 * SQL
 * DynamoDB
@@ -447,7 +447,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td width="33%" valign="top">
 
-## 🔎 Search Engineering
+##  Search Engineering
 
 * Elasticsearch
 * Search APIs
@@ -460,7 +460,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td width="33%" valign="top">
 
-## 🤖 AI Engineering
+##  AI Engineering
 
 * Machine Learning
 * Large Language Models
@@ -477,14 +477,14 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 ---
 
-# 🧪 Engineering Lab
+#  Engineering Lab
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔬 Currently Building
+##  Currently Building
 
 * Distributed Backend Systems
 * Event-Driven Microservices
@@ -496,7 +496,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td width="50%" valign="top">
 
-## 📚 Currently Exploring
+##  Currently Exploring
 
 * AI Agents
 * Cloud-Native Systems
@@ -512,7 +512,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 ---
 
-# 📊 GitHub Intelligence
+#  GitHub Intelligence
 
 <p align="center">
 
@@ -530,7 +530,7 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 ---
 
-# ⚙️ Engineering Principles
+#  Engineering Principles
 
 <table>
 
@@ -538,25 +538,25 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td align="center" width="25%">
 
-### ⚡ Performance
+###  Performance
 
 </td>
 
 <td align="center" width="25%">
 
-### 🛡 Reliability
+###  Reliability
 
 </td>
 
 <td align="center" width="25%">
 
-### 📈 Scalability
+###  Scalability
 
 </td>
 
 <td align="center" width="25%">
 
-### 🔄 Fault Tolerance
+###  Fault Tolerance
 
 </td>
 
@@ -566,25 +566,25 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 <td align="center">
 
-### 🔒 Security
+###  Security
 
 </td>
 
 <td align="center">
 
-### 📡 Observability
+###  Observability
 
 </td>
 
 <td align="center">
 
-### 🧩 Maintainability
+###  Maintainability
 
 </td>
 
 <td align="center">
 
-### 🚀 Continuous Learning
+###  Continuous Learning
 
 </td>
 
@@ -598,3 +598,126 @@ A collection of experiments focused on integrating modern AI capabilities into s
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
 </p>
 
+---
+
+#  Engineering Vision
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+##  Current Mission
+
+Design backend systems that remain:
+
+* Reliable under failure
+* Scalable under heavy load
+* Efficient in resource utilization
+* Simple to maintain
+* Easy to extend
+
+</td>
+
+<td width="50%" valign="top">
+
+##  Looking Ahead
+
+I'm actively expanding my expertise toward:
+
+* AI-Native Backend Systems
+* Intelligent Distributed Applications
+* Cloud-Native Microservices
+* Large Scale System Design
+* Applied Machine Learning
+
+</td>
+
+</tr>
+</table>
+
+---
+
+#  Currently Reading & Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Distributed_Systems-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector_Databases-0EA5E9?style=for-the-badge"/>
+
+</p>
+
+---
+
+#  Connect
+
+<p align="center">
+
+<a href="mailto:singh.3101karan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Karansingh1999">
+<img src="https://img.shields.io/badge/GitHub-Karansingh1999-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Karan_Kumar_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/">
+<img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+#  Final System Message
+
+<div align="center">
+
+### ⚙️ SYSTEM STATUS
+
+ **ONLINE**
+
+---
+
+*"Build software that scales.*
+*Design systems that endure.*
+*Engineer solutions that create impact."*
+
+---
+
+**Current Version**
+
+`Backend Engineer v4.0`
+
+**Next Upgrade**
+
+`AI Systems Engineer`
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:1F51FF&height=140&section=footer"/>
+
+</p>

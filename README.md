@@ -264,3 +264,345 @@ Redis --> Service
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
 </p>
 
+---
+
+# 🚀 Flagship Engineering Modules
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏥 HealthLynked AI Pipeline
+
+> Intelligent Provider & Practice Directory Update Platform
+
+**Overview**
+
+Designed an AI-powered pipeline to detect, validate, and process healthcare provider updates using scalable automation and human-in-the-loop verification.
+
+**Tech**
+
+`Python` `LLMs` `RAG` `Vector Search` `Automation`
+
+**Highlights**
+
+- AI-assisted entity resolution
+- Intelligent data validation
+- Explainable decision pipeline
+- Human review workflow
+- Audit trail generation
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Neural Debris Removal
+
+> Computer Vision • Kaggle
+
+**Overview**
+
+Optimized object detection models to improve robustness against poisoned neural weights and maximize leaderboard performance.
+
+**Tech**
+
+`PyTorch` `RetinaNet` `Computer Vision`
+
+**Highlights**
+
+- Model optimization
+- Bounding-box prediction
+- Inference pipeline
+- Evaluation improvements
+- Performance tuning
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ Distributed Backend Platform
+
+> High-performance backend services
+
+**Overview**
+
+Building scalable backend applications using asynchronous communication, distributed caching, and production-grade API design.
+
+**Tech**
+
+`Java` `Spring Boot` `Kafka` `Redis`
+
+**Highlights**
+
+- REST APIs
+- Event-driven workflows
+- Retry & DLQ
+- Cache optimization
+- Horizontal scalability
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔍 Intelligent Search Service
+
+> Search & Retrieval Platform
+
+**Overview**
+
+Search platform supporting indexing, filtering, autocomplete, and optimized retrieval strategies.
+
+**Tech**
+
+`Java` `Elasticsearch`
+
+**Highlights**
+
+- Index management
+- Search APIs
+- Autocomplete
+- Query optimization
+- High-speed retrieval
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛰 Engineering Domains
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## ☕ Backend Systems
+
+- REST APIs
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- API Gateway
+- Clean Architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+## ⚡ Distributed Computing
+
+- Apache Kafka
+- Event Streaming
+- Asynchronous Processing
+- Retry Strategy
+- Dead Letter Queue
+- Fault Tolerance
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🚀 Performance Engineering
+
+- Redis
+- Caching
+- Database Optimization
+- Low Latency APIs
+- Session Management
+- Performance Monitoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 🗄 Data Platforms
+
+- SQL
+- DynamoDB
+- Data Modeling
+- Query Optimization
+- Transactions
+- Persistence Layer
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🔎 Search Engineering
+
+- Elasticsearch
+- Inverted Index
+- Reindex API
+- Search Ranking
+- Full Text Search
+- Autocomplete
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 AI Engineering
+
+- Machine Learning
+- LLM Applications
+- RAG Systems
+- Vector Search
+- AI Automation
+- Prompt Engineering
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧪 Engineering Lab
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔬 Currently Building
+
+- Distributed Backend Services
+- Event-Driven Systems
+- AI-Assisted Applications
+- Backend Performance Optimization
+- Production APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 Currently Exploring
+
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Distributed AI Systems
+- Cloud-Native Architectures
+- Large Language Models
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Intelligence
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karansingh1999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansingh1999&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karansingh1999&theme=tokyo-night&hide_border=true&hide_title=true"/>
+
+</p>
+
+---
+
+# ⚙ Engineering Principles
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### ⚡
+
+Performance
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡
+
+Reliability
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+Scalability
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔄
+
+Fault Tolerance
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🔒
+
+Security
+
+</td>
+
+<td align="center">
+
+### 📡
+
+Observability
+
+</td>
+
+<td align="center">
+
+### 🧩
+
+Maintainability
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+Continuous Improvement
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
+</p>

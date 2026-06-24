@@ -1,67 +1,176 @@
-👋 Hi, I’m Karan Kumar Singh
+<!-- ========================================================= -->
+<!--                    HERO SECTION                           -->
+<!-- ========================================================= -->
 
-🚀 Software Engineer | Backend Systems | Researcher in AI & ML
+<h1 align="center">Karan Kumar Singh</h1>
 
-I’m a backend-focused software engineer with strong experience in building scalable, production-grade systems and a deep academic background in Machine Learning and applied AI research. I enjoy solving complex engineering problems at scale and bridging the gap between research and real-world systems.
+<h3 align="center">
+Backend Engineer • Distributed Systems • Java • Spring Boot • Kafka • Redis
+</h3>
 
---> What I Do
+<p align="center">
 
-🧠 Design and build high-performance backend systems
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Platforms;Designing+Distributed+Systems;Engineering+Event-Driven+Architectures;Exploring+AI-Powered+Backend+Systems" />
 
-⚙️ Develop REST APIs & microservices using Java, Spring Boot, Scala (Play Framework)
+</p>
 
-🔍 Work with distributed systems, caching, search engines, and databases
+<p align="center">
 
-📊 Apply Machine Learning & NLP to real-world problems
+<a href="mailto:singh.3101karan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🧪 Write clean, testable, and maintainable production code
+<a href="https://github.com/Karansingh1999">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🛠️ Tech Stack
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Languages:
-Java · Scala · Python · SQL . C++
+</p>
 
-Backend & Frameworks:
-Spring Boot · Play Framework · Hibernate / JPA  . FASTAPI
+---
 
-Databases & Search:
-MySQL · PostgreSQL · Redis · OpenSearch / Elasticsearch  .  DynamoDB
+# ⚡ Engineering Profile
 
-Architecture & Concepts:
-Microservices · REST APIs · Caching · Async & Non-Blocking Systems · System Design
+<table>
+<tr>
 
-Cloud & DevOps:
-Docker · AWS · CI/CD · Linux
+<td width="50%">
 
-📚 Research & Publications
+## 👨‍💻 Professional Summary
 
-📄 8+ research papers published in IEEE & Springer Nature conferences
+Backend Engineer with 4+ years of experience designing scalable backend services and distributed applications.
 
-📘 Author of a published book( Computing In Green Technology )
+Experienced in building production-grade APIs, event-driven systems, caching strategies, and high-performance backend platforms.
 
-🧠 Research interests: Machine Learning, NLP, Behavioral Analysis, AI for Social Good
-🌱 Currently Exploring
+Currently expanding into AI-powered systems while pursuing advanced knowledge in Machine Learning and Distributed AI.
 
-Advanced distributed backend architectures
+</td>
 
-Search systems & large-scale data pipelines
+<td width="50%">
 
-Applied ML/NLP in production systems
+## 🎯 Core Expertise
 
-Research-driven engineering problems
+✔ Backend Engineering
 
-🤝 Open to Collaborate On
+✔ Distributed Systems
 
-1.Backend & system design projects
+✔ Event Streaming
 
-2.Scalable API platforms
+✔ REST APIs
 
-3.Research-oriented ML / NLP projects
+✔ Microservices
 
-Open-source contributions
+✔ System Design
 
-📫 Let’s Connect
+✔ Performance Optimization
 
-📧 Email: 7870453811karan@gmail.com
+✔ Scalable Architecture
 
-💼 LinkedIn: https://www.linkedin.com/in/karankumarsingh
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Arsenal
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring"/>
+
+</td>
+
+<td align="center">
+
+### Messaging
+
+<img src="https://skillicons.dev/icons?i=kafka"/>
+
+</td>
+
+<td align="center">
+
+### Cache
+
+<img src="https://skillicons.dev/icons?i=redis"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</td>
+
+<td align="center">
+
+### Cloud
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+</td>
+
+<td align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,maven,docker"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏗 Architecture Blueprint
+
+```mermaid
+flowchart LR
+
+Client["Client Applications"]
+
+Gateway["API Layer"]
+
+Service["Spring Boot Services"]
+
+Kafka["Apache Kafka"]
+
+Redis["Redis Cache"]
+
+SQL["SQL Database"]
+
+Elastic["Elasticsearch"]
+
+Client --> Gateway
+
+Gateway --> Service
+
+Service --> Kafka
+
+Service --> Redis
+
+Service --> SQL
+
+Service --> Elastic
+
+Kafka --> Service
+
+Redis --> Service

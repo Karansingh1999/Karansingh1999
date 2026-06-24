@@ -34,7 +34,7 @@ Senior Backend Engineer • Distributed Systems • AI Systems Explorer
 
 ---
 
-# 🧬 Engineering DNA
+#  Engineering DNA
 
 <table>
 <tr>
@@ -55,17 +55,16 @@ Rather than building isolated applications, I enjoy designing systems that commu
 
 ### Snapshot
 
-🟢 4+ Years Experience
+ 4+ Years Experience
 
-☕ Java Backend
+ Java Backend
 
-⚡ Event-Driven Systems
+ Event-Driven Systems
 
-🚀 Distributed Architecture
+ Distributed Architecture
 
-🧠 AI & Machine Learning
+ AI & Machine Learning
 
-🎓 MS CS (AI/ML) Aspirant
 
 </td>
 
@@ -74,7 +73,7 @@ Rather than building isolated applications, I enjoy designing systems that commu
 
 ---
 
-# 🧩 Technology Ecosystem
+#  Technology Ecosystem
 
 <table>
 
@@ -158,13 +157,13 @@ Maven
 
 ### Next Frontier
 
-🤖 LLMs
+ LLMs
 
-🧠 RAG
+ RAG
 
-⚙ AI Agents
+ AI Agents
 
-☁ Cloud Native
+ Cloud Native
 
 </td>
 
@@ -174,7 +173,7 @@ Maven
 
 ---
 
-# 🏗 System Architecture Blueprint
+#  System Architecture Blueprint
 
 ```mermaid
 flowchart LR
@@ -224,7 +223,7 @@ Redis --> Backend
 
 <td width="33%">
 
-### ⚙ Backend Engineering
+###  Backend Engineering
 
 ✔ Production APIs
 
@@ -242,7 +241,7 @@ Redis --> Backend
 
 <td width="33%">
 
-### 🌐 Distributed Systems
+###  Distributed Systems
 
 ✔ Kafka
 
@@ -260,7 +259,7 @@ Redis --> Backend
 
 <td width="33%">
 
-### 🚀 Platform Engineering
+###  Platform Engineering
 
 ✔ Redis
 
@@ -284,4 +283,263 @@ Redis --> Backend
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:007CF0"/>
 
+</p>
+
+---
+
+#  Solution Portfolio
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+##  Event Processing Engine
+
+<img src="https://img.shields.io/badge/STATUS-Production_Ready-success?style=flat-square"/>
+
+### Purpose
+
+A distributed backend service responsible for asynchronous event processing across multiple microservices.
+
+### Technology
+
+`Java` `Spring Boot` `Kafka` `Redis`
+
+### Capabilities
+
+* Event Publishing
+* Consumer Groups
+* Retry Strategy
+* Dead Letter Queue
+* Distributed Processing
+* High Throughput Messaging
+
+---
+
+ **Repository:** *Coming Soon*
+
+</td>
+
+<td width="50%" valign="top">
+
+##  Identity & Access Platform
+
+<img src="https://img.shields.io/badge/STATUS-Stable-blue?style=flat-square"/>
+
+### Purpose
+
+Authentication and authorization platform providing secure access across distributed services.
+
+### Technology
+
+`Spring Security` `JWT` `Java`
+
+### Capabilities
+
+* JWT Authentication
+* RBAC
+* Secure APIs
+* Permission Management
+* Token Validation
+* Session Security
+
+---
+
+ **Repository:** *Coming Soon*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+##  Intelligent Search Engine
+
+<img src="https://img.shields.io/badge/STATUS-Optimized-orange?style=flat-square"/>
+
+### Purpose
+
+Search service supporting indexing, filtering, autocomplete and optimized query execution.
+
+### Technology
+
+`Java` `Elasticsearch`
+
+### Capabilities
+
+* Full-Text Search
+* Search APIs
+* Index Management
+* Autocomplete
+* Ranking
+* Query Optimization
+
+---
+
+ **Repository:** *Coming Soon*
+
+</td>
+
+<td width="50%" valign="top">
+
+##  AI Systems Playground
+
+<img src="https://img.shields.io/badge/STATUS-Research-purple?style=flat-square"/>
+
+### Purpose
+
+Experimental workspace focused on integrating AI into modern backend architectures.
+
+### Technology
+
+`Python` `LLMs` `RAG`
+
+### Capabilities
+
+* AI Agents
+* Prompt Engineering
+* Retrieval-Augmented Generation
+* Intelligent Automation
+* Vector Search
+* AI Workflows
+
+---
+
+ **Repository:** *Coming Soon*
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+#  Engineering Focus Areas
+
+<table>
+
+<tr>
+
+<td width="25%" align="center">
+
+## Backend
+
+Java
+
+Spring Boot
+
+REST APIs
+
+Security
+
+</td>
+
+<td width="25%" align="center">
+
+## Messaging
+
+Kafka
+
+Event Streaming
+
+Retry Logic
+
+DLQ
+
+</td>
+
+<td width="25%" align="center">
+
+## Storage
+
+SQL
+
+Redis
+
+DynamoDB
+
+Elasticsearch
+
+</td>
+
+<td width="25%" align="center">
+
+## AI
+
+LLMs
+
+RAG
+
+AI Agents
+
+ML
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+#  Innovation Playground
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+##  Currently Building
+
+* Distributed Backend Systems
+* Event Streaming Pipelines
+* Scalable REST APIs
+* Cache Optimization
+* AI-Enabled Backend Services
+
+</td>
+
+<td width="50%">
+
+##  Exploring
+
+* Cloud Native Architecture
+* Kubernetes
+* Distributed AI
+* Vector Databases
+* Large Language Models
+* Agentic AI
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+#  GitHub Intelligence
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karansingh1999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansingh1999&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karansingh1999&theme=tokyo-night&hide_border=true&hide_title=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:007CF0"/>
 </p>

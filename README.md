@@ -1,16 +1,18 @@
-<!-- ========================================================= -->
-<!--                    HERO SECTION                           -->
-<!-- ========================================================= -->
+<!-- ======================================================= -->
+
+<!--                     HERO SECTION                        -->
+
+<!-- ======================================================= -->
 
 <h1 align="center">Karan Kumar Singh</h1>
 
 <h3 align="center">
-Backend Engineer • Distributed Systems • Java • Spring Boot • Kafka • Redis
+Senior Backend Engineer • Distributed Systems • AI Systems Explorer
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Platforms;Designing+Distributed+Systems;Engineering+Event-Driven+Architectures;Exploring+AI-Powered+Backend+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Reliable+Distributed+Systems;Engineering+High-Performance+Backend+Platforms;Designing+Event-Driven+Architectures;Bridging+Backend+Engineering+with+AI" />
 
 </p>
 
@@ -24,7 +26,7 @@ Backend Engineer • Distributed Systems • Java • Spring Boot • Kafka • 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -32,42 +34,38 @@ Backend Engineer • Distributed Systems • Java • Spring Boot • Kafka • 
 
 ---
 
-#  Engineering Profile
+# 🧬 Engineering DNA
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="65%">
 
-##  Professional Summary
+### Who I Am
 
-Backend Engineer with 4+ years of experience designing scalable backend services and distributed applications.
+I design backend systems that prioritize **scalability, reliability, and maintainability**.
 
-Experienced in building production-grade APIs, event-driven systems, caching strategies, and high-performance backend platforms.
+My engineering focus is centered around **distributed systems**, **event-driven architectures**, and **high-performance backend services**, with a growing interest in integrating AI capabilities into production-grade software.
 
-Currently expanding into AI-powered systems while pursuing advanced knowledge in Machine Learning and Distributed AI.
+Rather than building isolated applications, I enjoy designing systems that communicate efficiently, recover gracefully from failures, and remain resilient under scale.
 
 </td>
 
-<td width="50%">
+<td width="35%">
 
-##  Core Expertise
+### Snapshot
 
-✔ Backend Engineering
+🟢 4+ Years Experience
 
-✔ Distributed Systems
+☕ Java Backend
 
-✔ Event Streaming
+⚡ Event-Driven Systems
 
-✔ REST APIs
+🚀 Distributed Architecture
 
-✔ Microservices
+🧠 AI & Machine Learning
 
-✔ System Design
-
-✔ Performance Optimization
-
-✔ Scalable Architecture
+🎓 MS CS (AI/ML) Aspirant
 
 </td>
 
@@ -76,7 +74,7 @@ Currently expanding into AI-powered systems while pursuing advanced knowledge in
 
 ---
 
-# 🛠 Tech Arsenal
+# 🧩 Technology Ecosystem
 
 <table>
 
@@ -84,9 +82,15 @@ Currently expanding into AI-powered systems while pursuing advanced knowledge in
 
 <td align="center">
 
-### Backend
+### Core
 
 <img src="https://skillicons.dev/icons?i=java,spring"/>
+
+Java
+
+Spring Boot
+
+Spring Security
 
 </td>
 
@@ -96,13 +100,25 @@ Currently expanding into AI-powered systems while pursuing advanced knowledge in
 
 <img src="https://skillicons.dev/icons?i=kafka"/>
 
+Apache Kafka
+
+Event Streaming
+
+Async Processing
+
 </td>
 
 <td align="center">
 
-### Cache
+### Performance
 
 <img src="https://skillicons.dev/icons?i=redis"/>
+
+Redis
+
+Caching
+
+Low Latency
 
 </td>
 
@@ -112,25 +128,43 @@ Currently expanding into AI-powered systems while pursuing advanced knowledge in
 
 <td align="center">
 
-### Database
+### Persistence
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-</td>
+SQL
 
-<td align="center">
+DynamoDB
 
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=aws"/>
+Elasticsearch
 
 </td>
 
 <td align="center">
 
-### Tools
+### Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,maven,docker"/>
+<img src="https://skillicons.dev/icons?i=docker,git,maven"/>
+
+Docker
+
+Git
+
+Maven
+
+</td>
+
+<td align="center">
+
+### Next Frontier
+
+🤖 LLMs
+
+🧠 RAG
+
+⚙ AI Agents
+
+☁ Cloud Native
 
 </td>
 
@@ -140,18 +174,18 @@ Currently expanding into AI-powered systems while pursuing advanced knowledge in
 
 ---
 
-#  Architecture Blueprint
+# 🏗 System Architecture Blueprint
 
 ```mermaid
 flowchart LR
 
 Client["Client Applications"]
 
-Gateway["API Layer"]
+Gateway["API Gateway"]
 
-Service["Spring Boot Services"]
+Backend["Spring Boot Services"]
 
-Kafka["Apache Kafka"]
+Kafka["Kafka Event Bus"]
 
 Redis["Redis Cache"]
 
@@ -159,221 +193,86 @@ SQL["SQL Database"]
 
 Elastic["Elasticsearch"]
 
+AI["AI Services"]
+
 Client --> Gateway
 
-Gateway --> Service
+Gateway --> Backend
 
-Service --> Kafka
+Backend --> Kafka
 
-Service --> Redis
+Backend --> Redis
 
-Service --> SQL
+Backend --> SQL
 
-Service --> Elastic
+Backend --> Elastic
 
-Kafka --> Service
+Backend --> AI
 
-Redis --> Service
+Kafka --> Backend
+
+Redis --> Backend
 ```
+
 ---
-# ⚙️ Engineering Domains
+
+# 🎯 Core Competencies
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="33%">
 
-## Backend Engineering
-
-✔ RESTful APIs
-
-✔ Spring Boot Services
-
-✔ Authentication & Authorization
-
-✔ Microservice Architecture
+### ⚙ Backend Engineering
 
 ✔ Production APIs
 
-✔ Secure Backend Systems
+✔ Secure Services
+
+✔ Spring Boot
+
+✔ REST Architecture
+
+✔ Authentication
+
+✔ Authorization
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-## Distributed Systems
+### 🌐 Distributed Systems
 
-✔ Apache Kafka
+✔ Kafka
 
 ✔ Event Streaming
 
-✔ Asynchronous Processing
+✔ Retry Strategy
 
-✔ Retry Mechanisms
+✔ DLQ
+
+✔ Scalability
 
 ✔ Fault Tolerance
 
-✔ Horizontal Scalability
-
 </td>
 
-</tr>
+<td width="33%">
 
-<tr>
+### 🚀 Platform Engineering
 
-<td width="50%">
+✔ Redis
 
-## Performance Engineering
+✔ Search
 
-✔ Redis Caching
-
-✔ Session Management
-
-✔ API Optimization
-
-✔ Low Latency Design
-
-✔ Database Optimization
-
-✔ High Throughput Systems
-
-</td>
-
-<td width="50%">
-
-## Search & Data Platforms
+✔ SQL
 
 ✔ Elasticsearch
 
-✔ SQL Databases
+✔ Performance
 
-✔ DynamoDB
-
-✔ Indexing Strategies
-
-✔ Query Optimization
-
-✔ Data Retrieval
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
-</p>
-
----
-
----
-
-#  Flagship Engineering Modules
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-##  Distributed Backend Platform
-
-> Event-Driven Microservices Architecture
-
-**Overview**
-
-Designed scalable backend services following event-driven architecture principles with asynchronous messaging, distributed caching, and production-grade REST APIs.
-
-**Tech**
-
-`Java` `Spring Boot` `Kafka` `Redis` `SQL`
-
-**Highlights**
-
-* RESTful API Design
-* Event-Driven Workflows
-* Kafka Producers & Consumers
-* Retry & Dead Letter Queue
-* Redis Caching
-* Horizontal Scalability
-
-</td>
-
-<td width="50%" valign="top">
-
-##  Identity & Access Service
-
-> Secure Authentication & Authorization Platform
-
-**Overview**
-
-Developed a centralized authentication and authorization service implementing role-based access control and secure API communication.
-
-**Tech**
-
-`Java` `Spring Boot` `Spring Security` `JWT`
-
-**Highlights**
-
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* Secure REST APIs
-* User & Permission Management
-* Token Validation
-* Session Security
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-##  Intelligent Search Platform
-
-> High-Performance Search & Retrieval
-
-**Overview**
-
-Engineered a search platform capable of indexing, filtering, autocomplete, and optimized document retrieval using Elasticsearch.
-
-**Tech**
-
-`Java` `Spring Boot` `Elasticsearch`
-
-**Highlights**
-
-* Full-Text Search
-* Inverted Index
-* Query Optimization
-* Autocomplete
-* Reindex API
-* Fast Data Retrieval
-
-</td>
-
-<td width="50%" valign="top">
-
-##  AI Engineering Sandbox
-
-> Exploring Intelligent Software Systems
-
-**Overview**
-
-A collection of experiments focused on integrating modern AI capabilities into software engineering workflows.
-
-**Tech**
-
-`Python` `LLMs` `RAG` `Machine Learning`
-
-**Highlights**
-
-* Retrieval-Augmented Generation
-* AI Agents
-* Prompt Engineering
-* Intelligent Automation
-* Model Evaluation
-* Applied AI Prototypes
+✔ Optimization
 
 </td>
 
@@ -381,343 +280,8 @@ A collection of experiments focused on integrating modern AI capabilities into s
 
 </table>
 
----
-
-#  Engineering Domains
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-##  Backend Systems
-
-* Java & Spring Boot
-* REST API Development
-* Spring Security
-* JWT Authentication
-* Clean Architecture
-* Microservices
-
-</td>
-
-<td width="33%" valign="top">
-
-##  Distributed Computing
-
-* Apache Kafka
-* Event Streaming
-* Asynchronous Processing
-* Retry & DLQ
-* Fault Tolerance
-* Scalability
-
-</td>
-
-<td width="33%" valign="top">
-
-##  Performance Engineering
-
-* Redis Caching
-* Session Management
-* Low-Latency APIs
-* Database Optimization
-* High Throughput
-* Performance Tuning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-##  Data Platforms
-
-* SQL
-* DynamoDB
-* Data Modeling
-* Transactions
-* Persistence Layer
-* Query Optimization
-
-</td>
-
-<td width="33%" valign="top">
-
-##  Search Engineering
-
-* Elasticsearch
-* Search APIs
-* Inverted Index
-* Reindex API
-* Autocomplete
-* Ranking Strategies
-
-</td>
-
-<td width="33%" valign="top">
-
-##  AI Engineering
-
-* Machine Learning
-* Large Language Models
-* RAG Systems
-* AI Agents
-* Prompt Engineering
-* Intelligent Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-#  Engineering Lab
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-##  Currently Building
-
-* Distributed Backend Systems
-* Event-Driven Microservices
-* AI-Enhanced Applications
-* Production-Ready APIs
-* Scalable Software Platforms
-
-</td>
-
-<td width="50%" valign="top">
-
-##  Currently Exploring
-
-* AI Agents
-* Cloud-Native Systems
-* Distributed AI
-* Vector Databases
-* Retrieval-Augmented Generation
-* Advanced System Design
-
-</td>
-
-</tr>
-</table>
-
----
-
-#  GitHub Intelligence
-
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karansingh1999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansingh1999&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karansingh1999&theme=tokyo-night&hide_border=true&hide_title=true"/>
-
-</p>
-
----
-
-#  Engineering Principles
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-###  Performance
-
-</td>
-
-<td align="center" width="25%">
-
-###  Reliability
-
-</td>
-
-<td align="center" width="25%">
-
-###  Scalability
-
-</td>
-
-<td align="center" width="25%">
-
-###  Fault Tolerance
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-###  Security
-
-</td>
-
-<td align="center">
-
-###  Observability
-
-</td>
-
-<td align="center">
-
-###  Maintainability
-
-</td>
-
-<td align="center">
-
-###  Continuous Learning
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
-</p>
-
----
-
-#  Engineering Vision
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-##  Current Mission
-
-Design backend systems that remain:
-
-* Reliable under failure
-* Scalable under heavy load
-* Efficient in resource utilization
-* Simple to maintain
-* Easy to extend
-
-</td>
-
-<td width="50%" valign="top">
-
-##  Looking Ahead
-
-I'm actively expanding my expertise toward:
-
-* AI-Native Backend Systems
-* Intelligent Distributed Applications
-* Cloud-Native Microservices
-* Large Scale System Design
-* Applied Machine Learning
-
-</td>
-
-</tr>
-</table>
-
----
-
-#  Currently Reading & Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Distributed_Systems-0052CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vector_Databases-0EA5E9?style=for-the-badge"/>
-
-</p>
-
----
-
-#  Connect
-
-<p align="center">
-
-<a href="mailto:singh.3101karan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Karansingh1999">
-<img src="https://img.shields.io/badge/GitHub-Karansingh1999-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Karan_Kumar_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://scholar.google.com/">
-<img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-#  Final System Message
-
-<div align="center">
-
-### ⚙️ SYSTEM STATUS
-
- **ONLINE**
-
----
-
-*"Build software that scales.*
-*Design systems that endure.*
-*Engineer solutions that create impact."*
-
----
-
-**Current Version**
-
-`Backend Engineer v4.0`
-
-**Next Upgrade**
-
-`AI Systems Engineer`
-
-</div>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:1F51FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:007CF0"/>
 
 </p>

@@ -266,6 +266,8 @@ Redis --> Service
 
 ---
 
+---
+
 # 🚀 Flagship Engineering Modules
 
 <table>
@@ -273,49 +275,51 @@ Redis --> Service
 
 <td width="50%" valign="top">
 
-## 🏥 HealthLynked AI Pipeline
+## ⚡ Distributed Backend Platform
 
-> Intelligent Provider & Practice Directory Update Platform
+> Event-Driven Microservices Architecture
 
 **Overview**
 
-Designed an AI-powered pipeline to detect, validate, and process healthcare provider updates using scalable automation and human-in-the-loop verification.
+Designed scalable backend services following event-driven architecture principles with asynchronous messaging, distributed caching, and production-grade REST APIs.
 
 **Tech**
 
-`Python` `LLMs` `RAG` `Vector Search` `Automation`
+`Java` `Spring Boot` `Kafka` `Redis` `SQL`
 
 **Highlights**
 
-- AI-assisted entity resolution
-- Intelligent data validation
-- Explainable decision pipeline
-- Human review workflow
-- Audit trail generation
+* RESTful API Design
+* Event-Driven Workflows
+* Kafka Producers & Consumers
+* Retry & Dead Letter Queue
+* Redis Caching
+* Horizontal Scalability
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧠 Neural Debris Removal
+## 🔐 Identity & Access Service
 
-> Computer Vision • Kaggle
+> Secure Authentication & Authorization Platform
 
 **Overview**
 
-Optimized object detection models to improve robustness against poisoned neural weights and maximize leaderboard performance.
+Developed a centralized authentication and authorization service implementing role-based access control and secure API communication.
 
 **Tech**
 
-`PyTorch` `RetinaNet` `Computer Vision`
+`Java` `Spring Boot` `Spring Security` `JWT`
 
 **Highlights**
 
-- Model optimization
-- Bounding-box prediction
-- Inference pipeline
-- Evaluation improvements
-- Performance tuning
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Secure REST APIs
+* User & Permission Management
+* Token Validation
+* Session Security
 
 </td>
 
@@ -325,49 +329,51 @@ Optimized object detection models to improve robustness against poisoned neural 
 
 <td width="50%" valign="top">
 
-## ⚡ Distributed Backend Platform
+## 🔍 Intelligent Search Platform
 
-> High-performance backend services
+> High-Performance Search & Retrieval
 
 **Overview**
 
-Building scalable backend applications using asynchronous communication, distributed caching, and production-grade API design.
+Engineered a search platform capable of indexing, filtering, autocomplete, and optimized document retrieval using Elasticsearch.
 
 **Tech**
 
-`Java` `Spring Boot` `Kafka` `Redis`
+`Java` `Spring Boot` `Elasticsearch`
 
 **Highlights**
 
-- REST APIs
-- Event-driven workflows
-- Retry & DLQ
-- Cache optimization
-- Horizontal scalability
+* Full-Text Search
+* Inverted Index
+* Query Optimization
+* Autocomplete
+* Reindex API
+* Fast Data Retrieval
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔍 Intelligent Search Service
+## 🧠 AI Engineering Sandbox
 
-> Search & Retrieval Platform
+> Exploring Intelligent Software Systems
 
 **Overview**
 
-Search platform supporting indexing, filtering, autocomplete, and optimized retrieval strategies.
+A collection of experiments focused on integrating modern AI capabilities into software engineering workflows.
 
 **Tech**
 
-`Java` `Elasticsearch`
+`Python` `LLMs` `RAG` `Machine Learning`
 
 **Highlights**
 
-- Index management
-- Search APIs
-- Autocomplete
-- Query optimization
-- High-speed retrieval
+* Retrieval-Augmented Generation
+* AI Agents
+* Prompt Engineering
+* Intelligent Automation
+* Model Evaluation
+* Applied AI Prototypes
 
 </td>
 
@@ -387,12 +393,12 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## ☕ Backend Systems
 
-- REST APIs
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- API Gateway
-- Clean Architecture
+* Java & Spring Boot
+* REST API Development
+* Spring Security
+* JWT Authentication
+* Clean Architecture
+* Microservices
 
 </td>
 
@@ -400,12 +406,12 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## ⚡ Distributed Computing
 
-- Apache Kafka
-- Event Streaming
-- Asynchronous Processing
-- Retry Strategy
-- Dead Letter Queue
-- Fault Tolerance
+* Apache Kafka
+* Event Streaming
+* Asynchronous Processing
+* Retry & DLQ
+* Fault Tolerance
+* Scalability
 
 </td>
 
@@ -413,12 +419,12 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## 🚀 Performance Engineering
 
-- Redis
-- Caching
-- Database Optimization
-- Low Latency APIs
-- Session Management
-- Performance Monitoring
+* Redis Caching
+* Session Management
+* Low-Latency APIs
+* Database Optimization
+* High Throughput
+* Performance Tuning
 
 </td>
 
@@ -430,12 +436,12 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## 🗄 Data Platforms
 
-- SQL
-- DynamoDB
-- Data Modeling
-- Query Optimization
-- Transactions
-- Persistence Layer
+* SQL
+* DynamoDB
+* Data Modeling
+* Transactions
+* Persistence Layer
+* Query Optimization
 
 </td>
 
@@ -443,12 +449,12 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## 🔎 Search Engineering
 
-- Elasticsearch
-- Inverted Index
-- Reindex API
-- Search Ranking
-- Full Text Search
-- Autocomplete
+* Elasticsearch
+* Search APIs
+* Inverted Index
+* Reindex API
+* Autocomplete
+* Ranking Strategies
 
 </td>
 
@@ -456,12 +462,12 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## 🤖 AI Engineering
 
-- Machine Learning
-- LLM Applications
-- RAG Systems
-- Vector Search
-- AI Automation
-- Prompt Engineering
+* Machine Learning
+* Large Language Models
+* RAG Systems
+* AI Agents
+* Prompt Engineering
+* Intelligent Automation
 
 </td>
 
@@ -480,11 +486,11 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## 🔬 Currently Building
 
-- Distributed Backend Services
-- Event-Driven Systems
-- AI-Assisted Applications
-- Backend Performance Optimization
-- Production APIs
+* Distributed Backend Systems
+* Event-Driven Microservices
+* AI-Enhanced Applications
+* Production-Ready APIs
+* Scalable Software Platforms
 
 </td>
 
@@ -492,11 +498,12 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ## 📚 Currently Exploring
 
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Distributed AI Systems
-- Cloud-Native Architectures
-- Large Language Models
+* AI Agents
+* Cloud-Native Systems
+* Distributed AI
+* Vector Databases
+* Retrieval-Augmented Generation
+* Advanced System Design
 
 </td>
 
@@ -523,7 +530,7 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 ---
 
-# ⚙ Engineering Principles
+# ⚙️ Engineering Principles
 
 <table>
 
@@ -531,33 +538,25 @@ Search platform supporting indexing, filtering, autocomplete, and optimized retr
 
 <td align="center" width="25%">
 
-### ⚡
-
-Performance
+### ⚡ Performance
 
 </td>
 
 <td align="center" width="25%">
 
-### 🛡
-
-Reliability
+### 🛡 Reliability
 
 </td>
 
 <td align="center" width="25%">
 
-### 📈
-
-Scalability
+### 📈 Scalability
 
 </td>
 
 <td align="center" width="25%">
 
-### 🔄
-
-Fault Tolerance
+### 🔄 Fault Tolerance
 
 </td>
 
@@ -567,33 +566,25 @@ Fault Tolerance
 
 <td align="center">
 
-### 🔒
-
-Security
+### 🔒 Security
 
 </td>
 
 <td align="center">
 
-### 📡
-
-Observability
+### 📡 Observability
 
 </td>
 
 <td align="center">
 
-### 🧩
-
-Maintainability
+### 🧩 Maintainability
 
 </td>
 
 <td align="center">
 
-### 🚀
-
-Continuous Improvement
+### 🚀 Continuous Learning
 
 </td>
 
@@ -606,3 +597,4 @@ Continuous Improvement
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
 </p>
+

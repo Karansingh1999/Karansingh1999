@@ -174,7 +174,8 @@ Service --> Elastic
 Kafka --> Service
 
 Redis --> Service
-
+```
+---
 # ⚙️ Engineering Domains
 
 <table>
@@ -262,3 +263,4 @@ Redis --> Service
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
 </p>
+

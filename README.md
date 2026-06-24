@@ -175,52 +175,90 @@ Kafka --> Service
 
 Redis --> Service
 
----
+# ⚙️ Engineering Domains
 
-⚙ Engineering Capabilities
-<table> <tr> <td width="25%" align="center">
-Backend
+<table>
+<tr>
 
-REST APIs
+<td width="50%">
 
-Spring Boot
+## Backend Engineering
 
-Authentication
+✔ RESTful APIs
 
-Authorization
+✔ Spring Boot Services
 
-</td> <td width="25%" align="center">
-Distributed
+✔ Authentication & Authorization
 
-Kafka
+✔ Microservice Architecture
 
-Async Processing
+✔ Production APIs
 
-Event Streaming
+✔ Secure Backend Systems
 
-Scalability
+</td>
 
-</td> <td width="25%" align="center">
-Performance
+<td width="50%">
 
-Redis
+## Distributed Systems
 
-Caching
+✔ Apache Kafka
 
-Optimization
+✔ Event Streaming
 
-Low Latency
+✔ Asynchronous Processing
 
-</td> <td width="25%" align="center">
-Search
+✔ Retry Mechanisms
 
-Elasticsearch
+✔ Fault Tolerance
 
-Indexing
+✔ Horizontal Scalability
 
-Fast Retrieval
+</td>
 
-Query Optimization
+</tr>
 
-</td> </tr> </table>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=3"/> </p> 
+<tr>
+
+<td width="50%">
+
+## Performance Engineering
+
+✔ Redis Caching
+
+✔ Session Management
+
+✔ API Optimization
+
+✔ Low Latency Design
+
+✔ Database Optimization
+
+✔ High Throughput Systems
+
+</td>
+
+<td width="50%">
+
+## Search & Data Platforms
+
+✔ Elasticsearch
+
+✔ SQL Databases
+
+✔ DynamoDB
+
+✔ Indexing Strategies
+
+✔ Query Optimization
+
+✔ Data Retrieval
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=2"/>
+</p>

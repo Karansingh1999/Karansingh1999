@@ -174,3 +174,53 @@ Service --> Elastic
 Kafka --> Service
 
 Redis --> Service
+
+---
+
+⚙ Engineering Capabilities
+<table> <tr> <td width="25%" align="center">
+Backend
+
+REST APIs
+
+Spring Boot
+
+Authentication
+
+Authorization
+
+</td> <td width="25%" align="center">
+Distributed
+
+Kafka
+
+Async Processing
+
+Event Streaming
+
+Scalability
+
+</td> <td width="25%" align="center">
+Performance
+
+Redis
+
+Caching
+
+Optimization
+
+Low Latency
+
+</td> <td width="25%" align="center">
+Search
+
+Elasticsearch
+
+Indexing
+
+Fast Retrieval
+
+Query Optimization
+
+</td> </tr> </table>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E7FF,100:007CF0&height=3"/> </p> 

@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer · Backend Systems · Distributed Systems
 
-**Building reliable backend systems and exploring software security for the AI era.**
+**Building reliable backend platforms and exploring software security for AI-enabled systems.**
 
 <br>
 
@@ -19,111 +19,68 @@
 
 ## 👨‍💻 About
 
-I am a **Senior Software Engineer** focused on building scalable, reliable, and maintainable backend systems.
+I am a **Senior Software Engineer** focused on designing backend systems that are scalable, fault-tolerant, and maintainable.
 
 My engineering work centers around **Java, Spring Boot, distributed systems, event-driven architectures, APIs, caching, persistence, and system design**.
 
-I am also exploring the intersection of **backend engineering, program analysis, and AI security** — particularly how traditional software-security techniques can be applied to modern applications interacting with large language models.
+I am especially interested in the engineering problems behind production systems:
+
+* service reliability under failure,
+* asynchronous communication,
+* event-driven processing,
+* latency and caching,
+* API and data-layer design,
+* and security boundaries in increasingly AI-enabled applications.
+
+More recently, I have been exploring **program analysis and AI security**, particularly how traditional software-security techniques can help protect applications interacting with large language models.
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Featured Project
 
 ### 🛡️ PIIFlow
 
 **Policy-Aware Static Taint Analysis for LLM Data Security**
 
-PIIFlow is a Python-based static analysis tool designed to detect potentially unsafe flows of sensitive information into LLM APIs.
+PIIFlow is a Python-based static analysis tool for detecting potentially unsafe flows of sensitive information into LLM APIs.
 
-It explores how traditional program-analysis techniques such as **taint tracking, AST inspection, and data-flow analysis** can be adapted to emerging AI security problems.
+It brings traditional program-analysis techniques into a modern AI-security setting by analyzing how sensitive data propagates through application code before reaching an external model endpoint.
 
-```text
-Sensitive Data
+```text id="q0k9pn"
+Sensitive Source
       ↓
-Application Flow
+Application Code
       ↓
 Taint Propagation
       ↓
-Policy Analysis
+Policy Evaluation
       ↓
-LLM API
+LLM Sink
       ↓
 Security Finding
 ```
 
-**Technical Focus**
+**Core Areas**
 
-`Python` · `Static Analysis` · `AST Analysis` · `Taint Tracking` · `Data-Flow Analysis` · `LLM Security`
+`Python` · `Static Analysis` · `AST Analysis` · `Taint Tracking` · `Data-Flow Analysis` · `DevSecOps` · `AI Security`
+
+**Problem**
+
+Applications increasingly send user, business, and operational data to LLM APIs. Traditional runtime monitoring may detect a problem only after information has already left the application boundary.
+
+**Approach**
+
+PIIFlow explores whether potentially unsafe flows can be identified **before execution** by analyzing program structure and propagating sensitivity information through source code.
+
+**Core idea**
+
+`source → propagation → policy → LLM sink → finding`
 
 [Explore PIIFlow →](https://github.com/Karansingh1999/PIIFlow)
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗺️ Sharda Map
-
-**Campus navigation application**
-
-Android application designed to help students navigate university infrastructure including classrooms, laboratories, cafeterias, faculty offices, and other campus locations.
-
-`Java` · `Android` · `Firebase`
-
-[Explore repository →](https://github.com/Karansingh1999/Sharda-Map)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎵 Music App
-
-**Android music application**
-
-Java-based mobile application focused on music playback and organizing songs and albums through a native Android experience.
-
-`Java` · `Android`
-
-[Explore repository →](https://github.com/Karansingh1999/Music-App)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📰 News App
-
-**News application with summarization**
-
-Android application combining news consumption with text summarization to make long-form information easier to consume.
-
-`Java` · `Android` · `Text Summarization`
-
-[Explore repository →](https://github.com/Karansingh1999/News-App)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 COVID Tracking App
-
-**API-driven Android application**
-
-Mobile application that consumes external APIs to retrieve and present COVID-related information.
-
-`Java` · `Android` · `REST APIs`
-
-[Explore repository →](https://github.com/Karansingh1999/Covid-Android-App)
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚙️ Technical Foundation
+## ⚙️ Engineering Stack
 
 <table>
 <tr>
@@ -148,7 +105,7 @@ Mobile application that consumes external APIs to retrieve and present COVID-rel
 
 <tr>
 <td><b>Engineering</b></td>
-<td>Docker · Git · GitHub · Maven · API Design · System Design</td>
+<td>Docker · Maven · Git · GitHub · API Design · System Design</td>
 </tr>
 </table>
 
@@ -160,11 +117,13 @@ Mobile application that consumes external APIs to retrieve and present COVID-rel
 
 ---
 
-## 🔬 Technical Interests
+## 🧠 Engineering Focus
 
-`Distributed Systems` · `Backend Architecture` · `Event-Driven Systems` · `System Design` · `Static Analysis` · `AI Security`
+`Backend Architecture` · `Distributed Systems` · `Event-Driven Systems` · `System Design` · `Performance` · `AI Security`
 
-I am particularly interested in building software that remains **reliable under scale, resilient under failure, and secure as systems become increasingly interconnected and AI-enabled**.
+I am particularly interested in systems that must remain **reliable under scale, resilient under failure, and understandable as complexity grows**.
+
+My current technical direction also explores the boundary between **traditional backend engineering and emerging AI systems** — especially where ideas from program analysis, security, observability, and distributed systems can improve reliability.
 
 ---
 
@@ -184,7 +143,7 @@ I am particularly interested in building software that remains **reliable under 
 
 ### Senior Software Engineer · Backend Systems · Distributed Systems
 
-*Building reliable systems and exploring the future of secure AI-enabled software.*
+*Reliable systems. Clear abstractions. Thoughtful engineering.*
 
 <br>
 

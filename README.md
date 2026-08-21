@@ -1,669 +1,276 @@
-<!-- ======================================================= -->
+<div align="center">
 
-<!--                     HERO SECTION                        -->
+# Karan Kumar Singh
 
-<!-- ======================================================= -->
+### Backend Engineering · Distributed Systems · AI Security
 
-<h1 align="center">Karan Kumar Singh</h1>
+**Building reliable backend systems and exploring the intersection of software engineering, program analysis, and AI.**
 
-<h3 align="center">
-Senior Backend Engineer • Distributed Systems • AI Systems Explorer
-</h3>
+<br>
 
-<p align="center">
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:singh.3101karan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Kumar%20Singh-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karankumarsingh)
+[![GitHub](https://img.shields.io/badge/GitHub-Karansingh1999-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Karansingh1999)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Karan__1999-FFA116?style=flat\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Karan_1999/)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Building+Reliable+Distributed+Systems;Engineering+High-Performance+Backend+Platforms;Designing+Event-Driven+Architectures;Bridging+Backend+Engineering+with+AI" />
-
-</p>
-
-<p align="center">
-
-<a href="mailto:singh.3101karan@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Karansingh1999">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-#  Engineering DNA
+## 👨‍💻 About
 
-<table>
-<tr>
+I am a backend engineer focused on building **reliable, scalable, and maintainable software systems**.
 
-<td width="65%">
+My engineering interests span **Java backend development, distributed systems, event-driven architecture, APIs, caching, data persistence, and system design**. I am particularly interested in how systems behave under real-world constraints — concurrency, failures, latency, scale, and evolving requirements.
 
-### Who I Am
+More recently, I have been exploring the intersection of **software engineering and AI security**, including static analysis, data-flow tracking, sensitive-data protection, and security controls for applications interacting with LLMs.
 
-I design backend systems that prioritize **scalability, reliability, and maintainability**.
-
-My engineering focus is centered around **distributed systems**, **event-driven architectures**, and **high-performance backend services**, with a growing interest in integrating AI capabilities into production-grade software.
-
-Rather than building isolated applications, I enjoy designing systems that communicate efficiently, recover gracefully from failures, and remain resilient under scale.
-
-</td>
-
-<td width="35%">
-
-### Snapshot
-
- 4+ Years Experience
-
- Java Backend
-
- Event-Driven Systems
-
- Distributed Architecture
-
- AI & Machine Learning
-
-
-</td>
-
-</tr>
-</table>
+> I enjoy working on problems where **system design, reliability, performance, and security** matter as much as functionality.
 
 ---
 
-#  Technology Ecosystem
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### Core
-
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-
-Java
-
-Spring Boot
-
-Spring Security
-
-</td>
-
-<td align="center">
-
-### Messaging
-
-<img src="https://skillicons.dev/icons?i=kafka"/>
-
-Apache Kafka
-
-Event Streaming
-
-Async Processing
-
-</td>
-
-<td align="center">
-
-### Performance
-
-<img src="https://skillicons.dev/icons?i=redis"/>
-
-Redis
-
-Caching
-
-Low Latency
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### Persistence
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-SQL
-
-DynamoDB
-
-Elasticsearch
-
-</td>
-
-<td align="center">
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,git,maven"/>
-
-Docker
-
-Git
-
-Maven
-
-</td>
-
-<td align="center">
-
-### Next Frontier
-
- LLMs
-
- RAG
-
- AI Agents
-
- Cloud Native
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-#  System Architecture Blueprint
-
-```mermaid
-flowchart LR
-
-Client["Client Applications"]
-
-Gateway["API Gateway"]
-
-Backend["Spring Boot Services"]
-
-Kafka["Kafka Event Bus"]
-
-Redis["Redis Cache"]
-
-SQL["SQL Database"]
-
-Elastic["Elasticsearch"]
-
-AI["AI Services"]
-
-Client --> Gateway
-
-Gateway --> Backend
-
-Backend --> Kafka
-
-Backend --> Redis
-
-Backend --> SQL
-
-Backend --> Elastic
-
-Backend --> AI
-
-Kafka --> Backend
-
-Redis --> Backend
+## 🚀 Featured Engineering Work
+
+### 🛡️ PIIFlow
+
+**Policy-Aware Static Taint Analysis for LLM Data Security**
+
+PIIFlow is a Python-based static analysis project for detecting potentially unsafe flows of sensitive information into LLM APIs.
+
+It explores how traditional program-analysis techniques can be adapted to security challenges emerging in modern AI applications.
+
+```text id="0ph9ik"
+Sensitive Source
+      │
+      ▼
+  Application
+   Data Flow
+      │
+      ▼
+Taint Propagation
+      │
+      ▼
+ Policy Analysis
+      │
+      ▼
+    LLM Sink
+      │
+      ▼
+Security Finding
 ```
 
----
+**Technical focus**
 
-#  Core Competencies
+`Python` · `AST Analysis` · `Static Analysis` · `Taint Tracking` · `Data-Flow Analysis` · `LLM Security`
 
-<table>
+**Core question**
 
-<tr>
+> Can sensitive-data exposure to LLMs be detected before the application ever runs?
 
-<td width="33%">
-
-###  Backend Engineering
-
-✔ Production APIs
-
-✔ Secure Services
-
-✔ Spring Boot
-
-✔ REST Architecture
-
-✔ Authentication
-
-✔ Authorization
-
-</td>
-
-<td width="33%">
-
-###  Distributed Systems
-
-✔ Kafka
-
-✔ Event Streaming
-
-✔ Retry Strategy
-
-✔ DLQ
-
-✔ Scalability
-
-✔ Fault Tolerance
-
-</td>
-
-<td width="33%">
-
-###  Platform Engineering
-
-✔ Redis
-
-✔ Search
-
-✔ SQL
-
-✔ Elasticsearch
-
-✔ Performance
-
-✔ Optimization
-
-</td>
-
-</tr>
-
-</table>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:007CF0"/>
-
-</p>
+[Explore PIIFlow →](https://github.com/Karansingh1999/PIIFlow)
 
 ---
 
-#  Solution Portfolio
+## 💻 Selected Software Projects
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-##  Event Processing Engine
+### 🎵 Music App
 
-<img src="https://img.shields.io/badge/STATUS-Production_Ready-success?style=flat-square"/>
+**Android music application**
 
-### Purpose
+Java-based music application designed around albums, songs, playback, and personalized music consumption.
 
-A distributed backend service responsible for asynchronous event processing across multiple microservices.
+`Java` `Android`
 
-### Technology
-
-`Java` `Spring Boot` `Kafka` `Redis`
-
-### Capabilities
-
-* Event Publishing
-* Consumer Groups
-* Retry Strategy
-* Dead Letter Queue
-* Distributed Processing
-* High Throughput Messaging
-
----
+[Explore repository →](https://github.com/Karansingh1999/Music-App)
 
 </td>
 
 <td width="50%" valign="top">
 
-##  Identity & Access Platform
+### 🗺️ Sharda Map
 
-<img src="https://img.shields.io/badge/STATUS-Stable-blue?style=flat-square"/>
+**Campus navigation application**
 
-### Purpose
+Android application designed to help students locate classrooms, laboratories, cafeterias, faculty offices, and other university locations.
 
-Authentication and authorization platform providing secure access across distributed services.
+`Java` `Android` `Firebase`
 
-### Technology
-
-`Spring Security` `JWT` `Java`
-
-### Capabilities
-
-* JWT Authentication
-* RBAC
-* Secure APIs
-* Permission Management
-* Token Validation
-* Session Security
-
----
+[Explore repository →](https://github.com/Karansingh1999/Sharda-Map)
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-##  Intelligent Search Engine
+### 📰 News App
 
-<img src="https://img.shields.io/badge/STATUS-Optimized-orange?style=flat-square"/>
+**News application with summarization**
 
-### Purpose
+Android application combining news consumption with text summarization for more concise information delivery.
 
-Search service supporting indexing, filtering, autocomplete and optimized query execution.
+`Java` `Android` `Text Summarization`
 
-### Technology
-
-`Java` `Elasticsearch`
-
-### Capabilities
-
-* Full-Text Search
-* Search APIs
-* Index Management
-* Autocomplete
-* Ranking
-* Query Optimization
-
----
+[Explore repository →](https://github.com/Karansingh1999/News-App)
 
 </td>
 
 <td width="50%" valign="top">
 
-##  AI Systems Playground
+### 📱 COVID Tracking App
 
-<img src="https://img.shields.io/badge/STATUS-Research-purple?style=flat-square"/>
+**API-driven Android application**
 
-### Purpose
+Application built around external data APIs for retrieving and presenting COVID-related information.
 
-Experimental workspace focused on integrating AI into modern backend architectures.
+`Java` `Android` `REST APIs`
 
-### Technology
-
-`Python` `LLMs` `RAG`
-
-### Capabilities
-
-* AI Agents
-* Prompt Engineering
-* Retrieval-Augmented Generation
-* Intelligent Automation
-* Vector Search
-* AI Workflows
-
----
+[Explore repository →](https://github.com/Karansingh1999/Covid-Android-App)
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-#  Engineering Focus Areas
+## ⚙️ Engineering Stack
 
 <table>
-
 <tr>
-
-<td width="25%" align="center">
-
-## Backend
-
-Java
-
-Spring Boot
-
-REST APIs
-
-Security
-
-</td>
-
-<td width="25%" align="center">
-
-## Messaging
-
-Kafka
-
-Event Streaming
-
-Retry Logic
-
-DLQ
-
-</td>
-
-<td width="25%" align="center">
-
-## Storage
-
-SQL
-
-Redis
-
-DynamoDB
-
-Elasticsearch
-
-</td>
-
-<td width="25%" align="center">
-
-## AI
-
-LLMs
-
-RAG
-
-AI Agents
-
-ML
-
-</td>
-
+<td width="23%"><b>Backend</b></td>
+<td>Java · Spring Boot · REST APIs · Spring Security</td>
 </tr>
 
+<tr>
+<td><b>Distributed Systems</b></td>
+<td>Apache Kafka · Event-Driven Architecture · Asynchronous Processing</td>
+</tr>
+
+<tr>
+<td><b>Data & Performance</b></td>
+<td>SQL · Redis · Elasticsearch · DynamoDB · Caching</td>
+</tr>
+
+<tr>
+<td><b>AI & Security</b></td>
+<td>Python · Static Analysis · Taint Analysis · LLM Security · Data-Flow Analysis</td>
+</tr>
+
+<tr>
+<td><b>Engineering</b></td>
+<td>Docker · Git · GitHub · Maven · API Design</td>
+</tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,kafka,redis,mysql,docker,git,github,maven&theme=dark" alt="Engineering Technologies"/>
+</p>
 
 ---
 
-#  Innovation Playground
+## 🧠 Engineering Interests
 
 <table>
-
 <tr>
+<td width="33%" valign="top">
 
-<td width="50%">
+### ⚡ Distributed Systems
 
-##  Currently Building
-
-* Distributed Backend Systems
-* Event Streaming Pipelines
-* Scalable REST APIs
-* Cache Optimization
-* AI-Enabled Backend Services
+Event-driven architectures, asynchronous communication, fault tolerance, scalability, and the behavior of services under failure.
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-##  Exploring
+### 🛡️ Software & AI Security
 
-* Cloud Native Architecture
-* Kubernetes
-* Distributed AI
-* Vector Databases
-* Large Language Models
-* Agentic AI
+Static analysis, sensitive-data flows, application security, and safeguards for software integrating with AI systems.
 
 </td>
 
+<td width="33%" valign="top">
+
+### 🔍 Backend Performance
+
+Caching, database access, search, latency reduction, resource efficiency, and designing systems that remain responsive under load.
+
+</td>
 </tr>
-
 </table>
 
 ---
 
-#  GitHub Intelligence
+## 🏗️ Systems I Like Thinking About
 
-<p align="center">
+```mermaid id="w1z4k9"
+flowchart LR
+    A["Client"] --> B["API Layer"]
+    B --> C["Backend Services"]
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karansingh1999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+    C --> D["Event Streaming"]
+    C --> E["Cache"]
+    C --> F["Persistence"]
+    C --> G["Search"]
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansingh1999&layout=compact&theme=tokyonight&hide_border=true"/>
+    D --> H["Async Processing"]
+    E --> I["Low-Latency Access"]
+    F --> J["Durable State"]
+    G --> K["Information Retrieval"]
+```
 
-</p>
+The technology matters, but the engineering questions matter more:
 
-<p align="center">
+`What happens when a dependency fails?`
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karansingh1999&theme=tokyo-night&hide_border=true&hide_title=true"/>
+`Can the operation safely be retried?`
 
-</p>
+`Where should state live?`
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:007CF0"/>
-</p>
----
+`What should be synchronous vs. asynchronous?`
 
-#  Design Philosophy
+`How does the system behave as traffic increases?`
 
-<table>
-
-<tr>
-
-<td width="25%" align="center">
-
-### ⚡
-
-Performance First
-
-Design systems that remain fast under load.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🛡
-
-Reliability
-
-Expect failures and recover gracefully.
-
-</td>
-
-<td width="25%" align="center">
-
-### 📈
-
-Scalability
-
-Build today for tomorrow's traffic.
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔍
-
-Observability
-
-Measure, monitor and continuously improve.
-
-</td>
-
-</tr>
-
-</table>
+`Where are the security boundaries?`
 
 ---
 
-#  Knowledge Graph
+## 🔬 Current Technical Direction
 
-<table>
+`Distributed Systems` · `Event-Driven Architecture` · `Backend Performance` · `Static Analysis` · `AI Security` · `LLM Systems`
 
-<tr>
-
-<td width="50%" valign="top">
-
-##  Currently Learning
-
-* Advanced System Design
-* Cloud-Native Architecture
-* Kubernetes
-* Large Language Models
-* AI Agents
-* Retrieval-Augmented Generation
-
-</td>
-
-<td width="50%" valign="top">
-
-##  Research Interests
-
-* Distributed AI Systems
-* Backend Performance
-* Event-Driven Architecture
-* Intelligent Search
-* Scalable Infrastructure
-* Applied Machine Learning
-
-</td>
-
-</tr>
-
-</table>
+I am increasingly interested in the boundary between **traditional backend engineering and emerging AI systems** — particularly how existing ideas from distributed systems, security, observability, and program analysis can make AI-enabled applications more reliable.
 
 ---
 
-#  Network
+## 📊 GitHub Activity
 
 <p align="center">
-
-<a href="mailto:singh.3101karan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Karansingh1999">
-<img src="https://img.shields.io/badge/GitHub-Karansingh1999-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/karankumarsingh">
-<img src="https://img.shields.io/badge/LinkedIn-Karan_Kumar_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Karan_1999/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Karansingh1999&theme=github-compact&hide_border=true&hide_title=true&area=true"
+    width="95%"
+    alt="Karan Kumar Singh GitHub Activity"
+  />
 </p>
 
 ---
 
-#  Engineering Mindset
+<div align="center">
 
-> **Great software isn't measured by the number of features it has, but by how reliably it performs when those features matter most.**
+### Backend Engineering · Distributed Systems · AI Security
 
-I enjoy designing backend systems that are **simple to understand, resilient to failure, and built to scale**.
+**Reliable systems. Clear abstractions. Thoughtful engineering.**
 
-Whether it's an event-driven architecture, a distributed service, or an AI-enabled application, I believe good engineering starts with thoughtful design and ends with delivering real value.
+<br>
 
----
+[LinkedIn](https://www.linkedin.com/in/karankumarsingh) ·
+[Email](mailto:singh.3101karan@gmail.com) ·
+[GitHub](https://github.com/Karansingh1999) ·
+[LeetCode](https://leetcode.com/u/Karan_1999/)
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:007CF0&height=160&section=footer"/>
-
-</p>
+</div>

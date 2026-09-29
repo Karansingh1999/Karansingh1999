@@ -1,43 +1,36 @@
 <p align="center">
-  <sub><code>BACKEND SYSTEMS / DISTRIBUTED SYSTEMS / SOFTWARE SECURITY</code></sub>
+  <sub><code>JAVA BACKEND / DISTRIBUTED SYSTEMS / AI SECURITY</code></sub>
 </p>
 
 <h1 align="center">Karan Kumar Singh</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer · Backend Engineering · Distributed Systems</strong>
+  <strong>Senior Software Engineer · Backend &amp; Distributed Systems</strong>
 </p>
 
 <p align="center">
-  I design reliable backend systems and explore how program analysis can make AI-enabled applications safer.
+  I build reliable backend systems and investigate security boundaries in AI-enabled applications.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BACKEND_ARCHITECTURE-315B91?style=flat-square" alt="Backend architecture">
-  <img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-187F86?style=flat-square" alt="Distributed systems">
-  <img src="https://img.shields.io/badge/AI_SECURITY-7546A6?style=flat-square" alt="AI security">
+  <img src="https://img.shields.io/badge/JAVA_BACKEND-315B91?style=flat-square" alt="Java backend">
+  <img src="https://img.shields.io/badge/EVENT_DRIVEN_SYSTEMS-187F86?style=flat-square" alt="Event-driven systems">
+  <img src="https://img.shields.io/badge/STATIC_ANALYSIS-7546A6?style=flat-square" alt="Static analysis">
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="215">
+    <td align="center" width="210">
       <a href="mailto:singh.3101karan@gmail.com">
         <img src="https://img.shields.io/badge/EMAIL-CONTACT-CB4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact by email">
       </a>
     </td>
-    <td align="center" width="215">
+    <td align="center" width="210">
       <a href="https://www.linkedin.com/in/karankumarsingh">
         <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Karansingh1999?tab=repositories">
-        <img src="https://img.shields.io/badge/GITHUB-EXPLORE-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories">
-      </a>
-    </td>
-    <td align="center">
+    <td align="center" width="210">
       <a href="https://leetcode.com/u/Karan_1999/">
         <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode profile">
       </a>
@@ -45,32 +38,28 @@
   </tr>
 </table>
 
-<br>
-
 ## Featured work
 
 <table width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td valign="top">
       <h3>🛡️ <a href="https://github.com/Karansingh1999/PIIFlow">PIIFlow</a></h3>
+      <p><strong>Policy-aware static taint analysis for Python applications using LLM APIs.</strong></p>
+      <p>Traces sensitive data from its source to an LLM call, then evaluates the flow against YAML rules for data category, provider, trust zone, and sanitization.</p>
       <p>
-        <img src="https://img.shields.io/badge/STATIC_ANALYSIS-7546A6?style=flat-square" alt="Static analysis">
-        <img src="https://img.shields.io/badge/PRIVACY_ENGINEERING-315B91?style=flat-square" alt="Privacy engineering">
-        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square" alt="Python">
+        <img src="https://img.shields.io/badge/PYTHON_AST-3776AB?style=flat-square" alt="Python AST">
+        <img src="https://img.shields.io/badge/BOUNDED_TAINT_ANALYSIS-7546A6?style=flat-square" alt="Bounded taint analysis">
+        <img src="https://img.shields.io/badge/POLICY_EVALUATION-315B91?style=flat-square" alt="Policy evaluation">
+        <img src="https://img.shields.io/badge/JSON_REPORTING-187F86?style=flat-square" alt="JSON reporting">
       </p>
-      <p><strong>Policy-aware taint analysis for LLM data flows.</strong> PIIFlow scans Python source to find paths from sensitive inputs to LLM API calls without executing the target application.</p>
-      <p><strong>Method:</strong> AST analysis, bounded interprocedural propagation, sanitizer evidence, and YAML policy evaluation across data categories, providers, and trust zones.</p>
-      <p><a href="https://github.com/Karansingh1999/PIIFlow"><strong>Explore the repository →</strong></a></p>
-    </td>
-    <td width="42%" valign="top">
-      <h4>Technical evidence</h4>
-      <p><strong>Flow analysis:</strong> Reports the source, propagation path, sink, and stable finding fingerprint.</p>
-      <p><strong>Policy layer:</strong> Distinguishes a detected sensitive flow from a policy violation.</p>
-      <p><strong>Evaluation:</strong> Includes frozen synthetic benchmarks, comparison baselines, documented limitations, and reproduction steps.</p>
       <p>
-        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/docs/architecture.md">Architecture ↗</a><br>
-        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/benchmarks/results/report.md">Benchmark report ↗</a><br>
-        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/docs/reproducibility.md">Reproduce results ↗</a>
+        <a href="https://github.com/Karansingh1999/PIIFlow"><strong>Source code →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/docs/architecture.md"><strong>Architecture →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/benchmarks/results/report.md"><strong>Benchmark →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/docs/reproducibility.md"><strong>Reproduce →</strong></a>
       </p>
     </td>
   </tr>

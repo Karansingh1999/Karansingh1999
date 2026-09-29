@@ -1,155 +1,174 @@
-<div align="center">
+<p align="center">
+  <sub><code>BACKEND SYSTEMS / DISTRIBUTED SYSTEMS / SOFTWARE SECURITY</code></sub>
+</p>
 
-# Karan Kumar Singh
+<h1 align="center">Karan Kumar Singh</h1>
 
-### Senior Software Engineer · Backend Systems · Distributed Systems
+<p align="center">
+  <strong>Senior Software Engineer · Backend Engineering · Distributed Systems</strong>
+</p>
 
-**Building reliable backend platforms and exploring software security for AI-enabled systems.**
+<p align="center">
+  I design reliable backend systems and explore how program analysis can make AI-enabled applications safer.
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/BACKEND_ARCHITECTURE-315B91?style=flat-square" alt="Backend architecture">
+  <img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-187F86?style=flat-square" alt="Distributed systems">
+  <img src="https://img.shields.io/badge/AI_SECURITY-7546A6?style=flat-square" alt="AI security">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Kumar%20Singh-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karankumarsingh)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:singh.3101karan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Karansingh1999-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Karansingh1999)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Karan__1999-FFA116?style=flat\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Karan_1999/)
-
-</div>
-
----
-
-## 👨‍💻 About
-
-I am a **Senior Software Engineer** focused on designing backend systems that are scalable, fault-tolerant, and maintainable.
-
-My engineering work centers around **Java, Spring Boot, distributed systems, event-driven architectures, APIs, caching, persistence, and system design**.
-
-I am especially interested in the engineering problems behind production systems:
-
-* service reliability under failure,
-* asynchronous communication,
-* event-driven processing,
-* latency and caching,
-* API and data-layer design,
-* and security boundaries in increasingly AI-enabled applications.
-
-More recently, I have been exploring **program analysis and AI security**, particularly how traditional software-security techniques can help protect applications interacting with large language models.
-
----
-
-## 🚀 Featured Project
-
-### 🛡️ PIIFlow
-
-**Policy-Aware Static Taint Analysis for LLM Data Security**
-
-PIIFlow is a Python-based static analysis tool for detecting potentially unsafe flows of sensitive information into LLM APIs.
-
-It brings traditional program-analysis techniques into a modern AI-security setting by analyzing how sensitive data propagates through application code before reaching an external model endpoint.
-
-```text id="q0k9pn"
-Sensitive Source
-      ↓
-Application Code
-      ↓
-Taint Propagation
-      ↓
-Policy Evaluation
-      ↓
-LLM Sink
-      ↓
-Security Finding
-```
-
-**Core Areas**
-
-`Python` · `Static Analysis` · `AST Analysis` · `Taint Tracking` · `Data-Flow Analysis` · `DevSecOps` · `AI Security`
-
-**Problem**
-
-Applications increasingly send user, business, and operational data to LLM APIs. Traditional runtime monitoring may detect a problem only after information has already left the application boundary.
-
-**Approach**
-
-PIIFlow explores whether potentially unsafe flows can be identified **before execution** by analyzing program structure and propagating sensitivity information through source code.
-
-**Core idea**
-
-`source → propagation → policy → LLM sink → finding`
-
-[Explore PIIFlow →](https://github.com/Karansingh1999/PIIFlow)
-
----
-
-## ⚙️ Engineering Stack
-
-<table>
-<tr>
-<td width="24%"><b>Backend</b></td>
-<td>Java · Spring Boot · REST APIs · Spring Security</td>
-</tr>
-
-<tr>
-<td><b>Distributed Systems</b></td>
-<td>Apache Kafka · Event-Driven Architecture · Asynchronous Processing</td>
-</tr>
-
-<tr>
-<td><b>Data & Performance</b></td>
-<td>SQL · Redis · Elasticsearch · DynamoDB · Caching</td>
-</tr>
-
-<tr>
-<td><b>AI & Security</b></td>
-<td>Python · Static Analysis · Taint Analysis · Data-Flow Security · LLM Security</td>
-</tr>
-
-<tr>
-<td><b>Engineering</b></td>
-<td>Docker · Maven · Git · GitHub · API Design · System Design</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="215">
+      <a href="mailto:singh.3101karan@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-CONTACT-CB4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact by email">
+      </a>
+    </td>
+    <td align="center" width="215">
+      <a href="https://www.linkedin.com/in/karankumarsingh">
+        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Karansingh1999?tab=repositories">
+        <img src="https://img.shields.io/badge/GITHUB-EXPLORE-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Karan_1999/">
+        <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode profile">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br>
 
+## Featured work
+
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Karansingh1999/PIIFlow">PIIFlow</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATIC_ANALYSIS-7546A6?style=flat-square" alt="Static analysis">
+        <img src="https://img.shields.io/badge/PRIVACY_ENGINEERING-315B91?style=flat-square" alt="Privacy engineering">
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square" alt="Python">
+      </p>
+      <p><strong>Policy-aware taint analysis for LLM data flows.</strong> PIIFlow scans Python source to find paths from sensitive inputs to LLM API calls without executing the target application.</p>
+      <p><strong>Method:</strong> AST analysis, bounded interprocedural propagation, sanitizer evidence, and YAML policy evaluation across data categories, providers, and trust zones.</p>
+      <p><a href="https://github.com/Karansingh1999/PIIFlow"><strong>Explore the repository →</strong></a></p>
+    </td>
+    <td width="42%" valign="top">
+      <h4>Technical evidence</h4>
+      <p><strong>Flow analysis:</strong> Reports the source, propagation path, sink, and stable finding fingerprint.</p>
+      <p><strong>Policy layer:</strong> Distinguishes a detected sensitive flow from a policy violation.</p>
+      <p><strong>Evaluation:</strong> Includes frozen synthetic benchmarks, comparison baselines, documented limitations, and reproduction steps.</p>
+      <p>
+        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/docs/architecture.md">Architecture ↗</a><br>
+        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/benchmarks/results/report.md">Benchmark report ↗</a><br>
+        <a href="https://github.com/Karansingh1999/PIIFlow/blob/main/docs/reproducibility.md">Reproduce results ↗</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## More engineering work
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📐 <a href="https://github.com/Karansingh1999/ToDoListLowLevelDesign">To-Do List · Low-Level Design</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/OBJECT_ORIENTED_DESIGN-315B91?style=flat-square" alt="Object-oriented design">
+      </p>
+      <p>A Java design exercise modeling users, tasks, and subtasks, including status, priority, due dates, and progress tracking.</p>
+      <p><a href="https://github.com/Karansingh1999/ToDoListLowLevelDesign"><strong>Review the design →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Earlier Java applications</h3>
+      <p>
+        <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=black" alt="Android">
+        <img src="https://img.shields.io/badge/GRADLE-02303A?style=flat-square&amp;logo=gradle&amp;logoColor=white" alt="Gradle">
+      </p>
+      <p>
+        <a href="https://github.com/Karansingh1999/News-App">News App</a> · News summaries<br>
+        <a href="https://github.com/Karansingh1999/Sharda-Map">Sharda Map</a> · Campus navigation and Firebase<br>
+        <a href="https://github.com/Karansingh1999/Covid-Android-App">COVID Android App</a> · API-based tracking<br>
+        <a href="https://github.com/Karansingh1999/Music-App">Music App</a> · Songs and albums
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Technical snapshot
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="33%">
+      <img src="https://img.shields.io/badge/FLOW_DETECTION-4169E1?style=flat-square" alt="Flow detection">
+    </th>
+    <th align="center" width="33%">
+      <img src="https://img.shields.io/badge/MEASURED_RESULT-187F86?style=flat-square" alt="Measured result">
+    </th>
+    <th align="center" width="33%">
+      <img src="https://img.shields.io/badge/POLICY_EVALUATION-7546A6?style=flat-square" alt="Policy evaluation">
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>90</h2>
+      <strong>synthetic flow cases</strong><br>
+      <sub><a href="https://github.com/Karansingh1999/PIIFlow/blob/main/benchmarks/results/report.md">PIIFlow benchmark ↗</a></sub>
+    </td>
+    <td align="center">
+      <h2>0.894</h2>
+      <strong>F1 on those 90 cases</strong><br>
+      <sub><a href="https://github.com/Karansingh1999/PIIFlow/blob/main/benchmarks/results/report.md">Full comparison ↗</a></sub>
+    </td>
+    <td align="center">
+      <h2>36</h2>
+      <strong>synthetic policy cases</strong><br>
+      <sub><a href="https://github.com/Karansingh1999/PIIFlow/blob/main/benchmarks/results/phase2b2_policy/report.md">Policy benchmark ↗</a></sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,kafka,redis,mysql,docker,git,github,maven&theme=dark" alt="Core Technologies"/>
+  <sub>Benchmark results describe the included synthetic cases; scope and limitations are documented in the repository.</sub>
 </p>
-
----
-
-## 🧠 Engineering Focus
-
-`Backend Architecture` · `Distributed Systems` · `Event-Driven Systems` · `System Design` · `Performance` · `AI Security`
-
-I am particularly interested in systems that must remain **reliable under scale, resilient under failure, and understandable as complexity grows**.
-
-My current technical direction also explores the boundary between **traditional backend engineering and emerging AI systems** — especially where ideas from program analysis, security, observability, and distributed systems can improve reliability.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Karansingh1999&theme=github-compact&hide_border=true&hide_title=true&area=true"
-    width="95%"
-    alt="Karan Kumar Singh GitHub Activity"
-  />
-</p>
-
----
-
-<div align="center">
-
-### Senior Software Engineer · Backend Systems · Distributed Systems
-
-*Reliable systems. Clear abstractions. Thoughtful engineering.*
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/karankumarsingh) ·
-[Email](mailto:singh.3101karan@gmail.com) ·
-[GitHub](https://github.com/Karansingh1999) ·
-[LeetCode](https://leetcode.com/u/Karan_1999/)
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="33%">BACKEND</th>
+    <th align="center" width="33%">MESSAGING &amp; DATA</th>
+    <th align="center" width="33%">ANALYSIS &amp; TOOLING</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot"><br>
+      <img src="https://img.shields.io/badge/REST_APIs-315B91?style=flat-square" alt="REST APIs">
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis"><br>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&amp;logo=elasticsearch&amp;logoColor=white" alt="Elasticsearch">
+      <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&amp;logo=amazondynamodb&amp;logoColor=white" alt="DynamoDB">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/AST_Analysis-7546A6?style=flat-square" alt="AST analysis"><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&amp;logo=apachemaven&amp;logoColor=white" alt="Maven">
+    </td>
+  </tr>
+</table>
